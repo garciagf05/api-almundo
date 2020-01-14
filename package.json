@@ -1,6 +1,6 @@
 {
   "name": "api-almundo",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "API realizada para el proceso de inscripción al accelerator IT de almundo",
   "main": "dist/index.js",
   "scripts": {
